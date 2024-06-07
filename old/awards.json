@@ -1,0 +1,65 @@
+{
+    "awards": [
+      {
+        "award_date": {"$date": "2023-02-15T00:00:00Z"},
+        "award_name": "Best Fiction Novel",
+        "award_year": 2023,
+        "organization_name": "Literary Awards Association"
+      },
+      {
+        "award_date": {"$date": "2022-12-10T00:00:00Z"},
+        "award_name": "Book of the Year",
+        "award_year": 2022,
+        "organization_name": "National Book Foundation"
+      },
+      {
+        "award_date": {"$date": "2024-05-25T00:00:00Z"},
+        "award_name": "Bestseller",
+        "award_year": 2024,
+        "organization_name": "New York Times"
+      },
+      {
+        "award_date": {"$date": "2023-08-20T00:00:00Z"},
+        "award_name": "Editor's Choice",
+        "award_year": 2023,
+        "organization_name": "Publishers Weekly"
+      },
+      {
+        "award_date": {"$date": "2024-04-05T00:00:00Z"},
+        "award_name": "Critics' Pick",
+        "award_year": 2024,
+        "organization_name": "The Guardian"
+      },
+      {
+        "award_date": {"$date": "2025-01-15T00:00:00Z"},
+        "award_name": "Best Literary Fiction",
+        "award_year": 2025,
+        "organization_name": "Book Critics Circle"
+      },
+      {
+        "award_date": {"$date": "2024-11-20T00:00:00Z"},
+        "award_name": "Outstanding Achievement in Fiction",
+        "award_year": 2024,
+        "organization_name": "American Library Association"
+      },
+      {
+        "award_date": {"$date": "2023-06-30T00:00:00Z"},
+        "award_name": "Golden Quill Award",
+        "award_year": 2023,
+        "organization_name": "Quill & Scroll"
+      },
+      {
+        "award_date": {"$date": "2025-03-10T00:00:00Z"},
+        "award_name": "Best Fiction Debut",
+        "award_year": 2025,
+        "organization_name": "International Literary Awards"
+      },
+      {
+        "award_date": {"$date": "2024-09-05T00:00:00Z"},
+        "award_name": "Reader's Choice Award",
+        "award_year": 2024,
+        "organization_name": "Goodreads"
+      }
+    ]
+  }
+  

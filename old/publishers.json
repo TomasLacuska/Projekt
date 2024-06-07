@@ -1,0 +1,127 @@
+{
+    "publishers": [
+      {
+        "publisher_adress": {
+          "street": "123 Book St",
+          "postal_code": "11223",
+          "city": "Booktown",
+          "state": "NY",
+          "country/region": "USA"
+        },
+        "publisherName": "Book Publishers Inc.",
+        "founder": "John Smith",
+        "website": "http://www.bookpublishersinc.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "456 Literature Ave",
+          "postal_code": "33445",
+          "city": "Literature City",
+          "state": "CA",
+          "country/region": "USA"
+        },
+        "publisherName": "Literature House",
+        "founder": "Jane Doe",
+        "website": "http://www.literaturehouse.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "789 Novel Rd",
+          "postal_code": "55667",
+          "city": "Novel Town",
+          "state": "TX",
+          "country/region": "USA"
+        },
+        "publisherName": "Novel Publishers",
+        "founder": "Mary Johnson",
+        "website": "http://www.novelpublishers.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "101 Fiction Blvd",
+          "postal_code": "77889",
+          "city": "Fiction City",
+          "state": "FL",
+          "country/region": "USA"
+        },
+        "publisherName": "Fiction Works",
+        "founder": "Robert Brown",
+        "website": "http://www.fictionworks.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "202 Story Ln",
+          "postal_code": "99001",
+          "city": "Storyville",
+          "state": "WA",
+          "country/region": "USA"
+        },
+        "publisherName": "Story Publishers",
+        "founder": "William Davis",
+        "website": "http://www.storypublishers.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "303 Poetry Rd",
+          "postal_code": "11223",
+          "city": "Verseville",
+          "state": "NY",
+          "country/region": "USA"
+        },
+        "publisherName": "Poetic Press",
+        "founder": "Emily Dickinson",
+        "website": "http://www.poeticpress.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "505 Drama Blvd",
+          "postal_code": "33445",
+          "city": "Actors Town",
+          "state": "CA",
+          "country/region": "USA"
+        },
+        "publisherName": "Dramatic Publishing",
+        "founder": "William Shakespeare",
+        "website": "http://www.dramaticpublishing.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "707 History Ave",
+          "postal_code": "55667",
+          "city": "Historical City",
+          "state": "TX",
+          "country/region": "USA"
+        },
+        "publisherName": "History Books Inc.",
+        "founder": "Herodotus",
+        "website": "http://www.historybooksinc.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "909 Science St",
+          "postal_code": "77889",
+          "city": "Innovation City",
+          "state": "FL",
+          "country/region": "USA"
+        },
+        "publisherName": "Scientific Publishers",
+        "founder": "Marie Curie",
+        "website": "http://www.scientificpublishers.com"
+      },
+      {
+        "publisher_adress": {
+          "street": "111 Mystery Ln",
+          "postal_code": "99001",
+          "city": "Enigma Town",
+          "state": "WA",
+          "country/region": "USA"
+        },
+        "publisherName": "Mystery House",
+        "founder": "Agatha Christie",
+        "website": "http://www.mysteryhouse.com"
+      }
+      
+    ]
+    
+  }
+  
